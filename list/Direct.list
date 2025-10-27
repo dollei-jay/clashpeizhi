@@ -5,6 +5,7 @@
 DOMAIN-SUFFIX,sdic.com.cn
 DOMAIN-SUFFIX,dollei.top
 DOMAIN-SUFFIX,synology.me
+DOMAIN-SUFFIX,ceedi.cn
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # MyList
