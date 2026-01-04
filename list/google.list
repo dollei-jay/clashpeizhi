@@ -17,3 +17,9 @@ DOMAIN,fcm.googleapis.com
 DOMAIN,firebase.googleapis.com
 DOMAIN,firebaseinstallations.googleapis.com
 DOMAIN,android.clients.google.com
+
+#facebook
+DOMAIN-SUFFIX,ssl.gstatic.com
+
+# icmp9
+DOMAIN-SUFFIX,*.icmp9.com
