@@ -1,0 +1,19 @@
+# Google 账号
+DOMAIN,accounts.google.com
+DOMAIN,myaccount.google.com
+DOMAIN,oauth2.googleapis.com
+DOMAIN,accounts.googleusercontent.com
+DOMAIN,people.googleapis.com
+DOMAIN,identitytoolkit.googleapis.com
+DOMAIN,securetoken.googleapis.com
+DOMAIN,recovery.googleapis.com
+DOMAIN,safebrowsing.googleapis.com
+DOMAIN,ssl.gstatic.com
+DOMAIN,www.gstatic.com
+
+# Google FCM
+DOMAIN,mtalk.google.com
+DOMAIN,fcm.googleapis.com
+DOMAIN,firebase.googleapis.com
+DOMAIN,firebaseinstallations.googleapis.com
+DOMAIN,android.clients.google.com
