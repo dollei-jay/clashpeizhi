@@ -19,7 +19,7 @@ DOMAIN,firebaseinstallations.googleapis.com
 DOMAIN,android.clients.google.com
 
 #facebook
-DOMAIN-SUFFIX,ssl.gstatic.com
+DOMAIN-SUFFIX,*.facebook.com
 
 # icmp9
 DOMAIN-SUFFIX,*.icmp9.com
